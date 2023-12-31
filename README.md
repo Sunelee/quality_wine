@@ -10,7 +10,7 @@ This Streamlit app predicts the quality of wine based on various features. It in
 
 ## Demo
 
-Visit the [Wine Quality Prediction App](https://sunelee.github.io/wine_quality/) for a live demo.
+Visit the [Wine Quality Prediction App](https://sunelee-quality-wine-wine-quality-cojn95.streamlit.app/) for a live demo.
 
 ## Getting Started
 ...
